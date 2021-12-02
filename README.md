@@ -1,3 +1,15 @@
+#Extension C:Providing more information
+
+This task can be an extension of either a web or command line application.
+Task: Find APIs to be able to return more information to the user about the location of the ISS at the 
+timestamp submitted. If you find it too difficult to find historical data, you may provide realtime/more current information.
+Suggestions:
+ Weather 
+ Top stories/tweets
+ People on the ISS
+
+
+
 # Install All Package
 
 ### `npm install`
